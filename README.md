@@ -1,4 +1,4 @@
-![Preview](assets/mockup-ebook.png)
+![Preview](assets/mockup.png)
 
 # Maquiagem Criativa para Conteúdo Digital
 
