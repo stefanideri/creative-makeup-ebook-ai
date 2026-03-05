@@ -1,3 +1,5 @@
+![Preview](assets/mockup-ebook.png)
+
 # Maquiagem Criativa para Conteúdo Digital
 
 Projeto desenvolvido como desafio da DIO utilizando Inteligência Artificial para criação de um ebook visual.
