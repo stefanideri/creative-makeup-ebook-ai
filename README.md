@@ -1,4 +1,5 @@
-![Preview](assets/mockup-ebook.png)
+![Preview]creative-makeup-ebook-ai/assets
+/mockup.png
 
 # Maquiagem Criativa para Conteúdo Digital
 
