@@ -1,34 +1,40 @@
-# creative-makeup-ebook-ai
-Projeto de ebook com IA + estética visual. Inclui prompts, PDF e link Hotmart.
-# Ebook — Maquiagem Criativa para Conteúdo Digital
+# Maquiagem Criativa para Conteúdo Digital
 
-Projeto desenvolvido como desafio prático da DIO utilizando inteligência artificial para criação de um ebook visual.
+Projeto desenvolvido como desafio da DIO utilizando Inteligência Artificial para criação de um ebook visual.
 
-## 📖 Sobre o projeto
+---
 
-Este ebook ensina como transformar inspirações visuais do cinema, games e estética digital em looks autorais de maquiagem.
+## Sobre o projeto
 
-O material aborda:
+Este projeto apresenta a criação de um ebook que explora como transformar inspirações visuais do cinema, jogos, moda e estética digital em looks autorais de maquiagem.
 
-- inspiração visual
-- interpretação estética
-- construção de identidade visual
-- criação de conteúdo para redes sociais
+O objetivo é mostrar como referências visuais podem ser interpretadas e adaptadas para criação de conteúdo criativo em redes sociais.
 
-## 🤖 Ferramentas de IA utilizadas
+---
+
+## Ferramentas de IA utilizadas
 
 - ChatGPT
 - Krea AI
 - Nano Banana AI
 
-## 📚 Conteúdo do projeto
+As ferramentas foram utilizadas para:
 
-O repositório inclui:
+- geração de ideias
+- criação de imagens conceituais
+- desenvolvimento de prompts visuais
+- estruturação do conteúdo
 
-- Ebook completo em PDF
-- Prompts utilizados para gerar imagens
-- Estrutura visual do projeto
+---
 
-## 📖 Acesse o Ebook
+## Conteúdo do repositório
 
-[![Acessar Ebook](https://img.shields.io/badge/Acessar%20Ebook-Hotmart-orange)](https://go.hotmart.com/H104769730G)
+Este repositório contém:
+
+- o ebook completo em PDF
+- prompts utilizados na geração de imagens
+- assets visuais utilizados no projeto
+
+---
+
+## Estrutura do projeto
